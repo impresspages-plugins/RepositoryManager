@@ -1,0 +1,7 @@
+._repositoryActions .btn-primary, ._repositoryActions .btn-default {
+    display: none;
+}
+
+.ipModuleRepositoryPopup .close {
+    display: none;
+}
